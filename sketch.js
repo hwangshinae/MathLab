@@ -10,7 +10,7 @@ function degreeToRad(degree) {
 }
 
 function draw() {
-    background('black');
+    background(24, 188, 156);
     translate(width / 2, height / 2);
     degree = degree + 1;
     
